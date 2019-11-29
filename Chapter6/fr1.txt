@@ -1,0 +1,5 @@
+for (String str : words) {
+    if (str.substring(str.length()-3).indexOf("ing") >= 0 && str.length() >= 3) {
+        System.out.println(str);
+    }
+}
