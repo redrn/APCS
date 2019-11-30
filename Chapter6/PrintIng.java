@@ -1,7 +1,6 @@
 public class PrintIng {
 
     static public class Payroll
-
     {
 
         private int[] itemsSold = {48, 50, 37, 62, 38, 70, 55, 37, 64, 60}; // number of items sold by each employee
