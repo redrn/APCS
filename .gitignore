@@ -24,3 +24,6 @@ hs_err_pid*
 
 # Visual Studio Code Config fodler
 .vscode/
+
+# Folder config files
+.DS_Store
