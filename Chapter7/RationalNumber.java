@@ -7,6 +7,7 @@ public class RationalNumber implements Comparable<RationalNumber> {
         numerator = n;
     }
 
+    // FIXME: numerator and denominator not accesssible 
     public int compareTo(RationalNumber x) {
         double val1 = (double) numerator / denominator;
         double val2 = (double) x.numerator / x.denominator;
